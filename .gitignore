@@ -1,0 +1,25 @@
+# Ignora arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora a pasta de configurações do VS Code
+.vscode/
+
+# Ignora logs e arquivos de backup
+*.log
+*.tmp
+*~
+
+# Ignora pastas de extensões ou plugins que não fazem parte do projeto
+extensions/
+
+# VS Code
+.vscode/
+
+# Pastas de extensões e dependências
+extensions/
+node_modules/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
